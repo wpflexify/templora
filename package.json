@@ -1,0 +1,25 @@
+{
+    "name": "templora",
+    "version": "1.0.0",
+    "description": "Adds a template library with predefined pages and patterns to Gutenberg editor.",
+    "main": "templora.php",
+    "scripts": {
+        "start": "wp-scripts start",
+        "build": "wp-scripts build",
+        "plugin-zip": "wp-scripts plugin-zip"
+    },
+    "keywords": [
+        "templora",
+        "wordpress",
+        "plugin",
+        "gutenberg",
+        "block-editor",
+        "react",
+        "template-library"
+    ],
+    "author": "WpFlexify",
+    "license": "GPLv3",
+    "devDependencies": {
+        "@wordpress/scripts": "^23.1.0"
+    }
+}
